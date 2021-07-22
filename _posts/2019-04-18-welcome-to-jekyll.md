@@ -6,7 +6,6 @@ categories:
 tags:
   - Jekyll
   - update
-layout: default
 comments: true
 ---
 
